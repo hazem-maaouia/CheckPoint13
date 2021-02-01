@@ -1,7 +1,13 @@
 .App {
   text-align: center;
 }
+.imgprofil{
+width: 500px;
 
+}
+.appdiv{
+  color:#a9a9a9;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
